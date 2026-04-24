@@ -170,12 +170,12 @@ export default function App() {
       </div>
 
       {/* MAIN CONTENT */}
+      {/* MAIN CONTENT */}
       <div
         style={{
           flex: 1,
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center"
+          padding: "30px 40px",
+          overflowY: "auto"
         }}
       >
         <Page />
